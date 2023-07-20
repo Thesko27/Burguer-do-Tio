@@ -6,7 +6,7 @@
         </RouterLink>
 
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/ThePedidos">Pedidos</RouterLink>
+
 
     </div>
 </template>

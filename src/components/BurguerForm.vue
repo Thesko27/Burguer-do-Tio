@@ -215,7 +215,7 @@ select {
     font-weight: bold;
     margin: 0 auto;
     transition: .3s ease-in-out;
-    border: 2px solid #e81111;
+    border: 2px solid #222;
     font-size: 16px;
     padding: 10px;
     border-radius: 20px;

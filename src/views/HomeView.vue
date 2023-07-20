@@ -1,21 +1,21 @@
 <template>
-  <TheBanner/>
+  <TheBanner />
   <div class="main-container">
     <h1>Monte o seu burger:</h1>
-    <BurgerForm/>
+    <BurguerForm />
   </div>
 </template>
 
 <script >
 import TheBanner from '../components/TheBanner.vue';
-import BurgerForm from '../components/BurgerForm.vue';
+import BurguerForm from '../components/BurguerForm.vue';
 
-export default{
-  name:'HomeView',
+export default {
+  name: 'HomeView',
   components: {
 
     TheBanner,
-    BurgerForm
+    BurguerForm
 
   }
 }
