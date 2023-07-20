@@ -1,4 +1,7 @@
 # Bugueria-doTio
+![burguer](https://github.com/Thesko27/Burguer-do-Tio/assets/120025557/714e4962-e88f-4f41-8130-c99449b923d3)
+
+https://burguer-do-tio.vercel.app/
 
 This template should help get you started developing with Vue 3 in Vite.
 
